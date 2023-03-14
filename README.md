@@ -1,3 +1,3 @@
-# test
-### Hello!
-### I'm CodeGear
+# E-oN Assignment
+### Hello
+### I'm Jeong Young Jun
